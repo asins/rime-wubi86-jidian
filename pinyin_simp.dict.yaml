@@ -12,7 +12,6 @@ name: pinyin_simp
 version: "0.1"
 sort: by_weight
 ...
-
 鼥	ba	0
 釛	ba	0
 軷	ba	0
@@ -703,6 +702,7 @@ sort: by_weight
 补	bu	7071
 部	bu	13825
 不	bu	590643
+抖音	dou yin	20
 汃	pa	0
 跁	pa	1
 舥	pa	1
