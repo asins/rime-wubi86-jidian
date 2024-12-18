@@ -41,6 +41,8 @@ engine:
     - punct_translator
     - script_translator
     - reverse_lookup_translator
+    - lua_translator@*wubi86_jidian_date_translator # 日期、时间、星期
+
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
